@@ -1,2 +1,2 @@
 # AI-Lip-Reader
-Program which takes in videos of people speaking -- with corrolated translation for the software -- and learns to read their lips
+This program processes videos of people speaking and uses provided translations to help it learn lip reading. It looks at the speakers' lip movements in the videos and matches them with the correct words from the translations. This method helps the software become better at understanding what people are saying by watching their lips. This tool can be useful for recognizing speech in loud places, helping those who are hearing impaired, and understanding commands given without sound.
